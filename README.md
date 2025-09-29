@@ -1,7 +1,10 @@
 # 🚀 Coding Journey
 
 ## 📅 Start Date
-**1st August 2025**
+**1st September 2025**
+
+## 📅 End Date
+**30 September 2025**
 
 ## 📖 About
 A personal journey of consistent development and growth.  
@@ -19,3 +22,6 @@ A personal journey of consistent development and growth.
 ---
 
 🔥 Consistency is the key. Let’s build something great!
+
+## Result
+**Couldnt Maintain Consistence.
